@@ -1,4 +1,5 @@
-sevices:
+version: '3.8'
+services:
   postgresSQL:
     image: postgres:latest
     ports:
